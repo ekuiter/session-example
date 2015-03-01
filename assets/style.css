@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: transparent;
+  background-color: #C9C9D4;
+}
+
+.tweet {
+  border: 1px solid #aaa;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 5px;
+  background-color: #efefef;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.tweet small {
+  float: right;
+  margin-top: -15px;
+}
+
+textarea {
+width: 100%;
+height: 100px; 	
+	}
+	
+	img {
+		float: ;
+		}
